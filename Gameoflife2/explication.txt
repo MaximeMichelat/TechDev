@@ -1,0 +1,7 @@
+Le plus gros problème auquel j'ai fait face était celui du makefile qui devait 
+générer un binaire différent suivant le mode choisi. Après y avoir reflechi avec un
+autre étudiant, nous avons trouvé une solution qui fonctionne mais ne me paraît pas
+optimale.
+
+La bibliothèque cairo a un peu posé problème au début, mais on trouve facilement la 
+documentation sur Internet. 
